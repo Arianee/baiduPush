@@ -1,0 +1,20 @@
+{
+  "name": "baidu-push",
+  "version": "0.1.0",
+  "description": "Node js sdk for baidu push service",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm test "
+  },
+  "keywords": [
+    "baidu",
+    "push"
+  ],
+  "author": "Pana",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "promiseify": "^0.2.0",
+    "request": "^2.60.0"
+  }
+}
