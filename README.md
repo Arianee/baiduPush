@@ -3,13 +3,13 @@ BaiduPush
 
 Node.js SDK for [baidu push service](http://push.baidu.com/).
 
-Baidu push documentation: http://push.baidu.com/doc/restapi/restapi
+Baidu push [documentation](http://push.baidu.com/doc/restapi/restapi)
 
 
 ### Install
 
 ```
-npm install baidu-push
+npm install baidu_push
 ```
 
 
@@ -60,4 +60,3 @@ common params:
 
     TODO:
         1. support url schema option
-

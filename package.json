@@ -1,5 +1,5 @@
 {
-  "name": "baidu-push",
+  "name": "baidu_push",
   "version": "0.1.0",
   "description": "Node js sdk for baidu push service",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
     "baidu",
     "push"
   ],
-  "author": "Pana",
+  "author": "pana",
   "license": "MIT",
   "dependencies": {
     "debug": "^2.2.0",
