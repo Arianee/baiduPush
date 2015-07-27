@@ -6,6 +6,10 @@
   "scripts": {
     "test": "npm test "
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pana/baiduPush.git"
+  },
   "keywords": [
     "baidu",
     "push"
@@ -16,5 +20,8 @@
     "debug": "^2.2.0",
     "promiseify": "^0.2.0",
     "request": "^2.60.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
   }
 }
