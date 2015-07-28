@@ -1,10 +1,7 @@
 BaiduPush
 =======
 
-Node.js SDK for [baidu push service](http://push.baidu.com/).
-
-Baidu push [documentation](http://push.baidu.com/doc/restapi/restapi)
-
+Node.js SDK for [baidu push service](http://push.baidu.com/), which is a free, simple, easy scale push service. It support IOS & Android platform. It is a good choice for China app developers. 
 
 ### Install
 
@@ -16,7 +13,7 @@ npm install baidu_push
 
 ### Configure
 
-
+Baidu push [documentation](http://push.baidu.com/doc/restapi/restapi)
 
 common params:
         apikey
