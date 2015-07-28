@@ -1,4 +1,4 @@
-var BaiduPush = require('../lib/baiduPush.js');
+var BaiduPush = require('../lib/index.js');
 
 const APIKEY = "BG2gBo7mED2MIBuKL9FIVlyO";
 const SECRETKEY = "Ihp8XYybpz4ZGEFsB7sxIED1o6Sl6sbi";
