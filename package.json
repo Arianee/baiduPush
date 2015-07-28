@@ -4,7 +4,7 @@
   "description": "Node js sdk for baidu push service",
   "main": "lib/index.js",
   "scripts": {
-    "test": "npm test "
+    "test": "mocha test/test.js"
   },
   "repository": {
     "type": "git",
